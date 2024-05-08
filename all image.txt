@@ -1,0 +1,44 @@
+all image
+
+--------------banner image----------
+
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/email_campaign_monochromatic.svg
+
+--------------company image----------
+
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/companies/1.png
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/companies/2.png
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/companies/3.png
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/companies/4.png
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/companies/5.png
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/companies/6.png
+
+--------------seo image----------
+
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/seo_monochromatic.svg
+
+--------------work image----------
+
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/c1.jpg
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/c2.jpg
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/c3.jpg
+
+
+--------------buttom image----------
+
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/coding_.svg
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/marketing.svg
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/handshake.svg
+https://raw.githubusercontent.com/mdbootstrap/Bootstrap-5-Landing-Page-Tutorial/master/final-html/img/revenue_.svg
+
+
+
+
+
+
+
+
+
+
+
+
